@@ -206,6 +206,9 @@ header {
     text-shadow: none;
     font-weight: bolder;
 }
+.deo {
+    color:red;
+}
 
 @keyframes beat {
     0% {
